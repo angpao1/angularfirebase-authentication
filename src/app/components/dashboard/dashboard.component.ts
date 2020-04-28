@@ -16,6 +16,8 @@ export class DashboardComponent implements OnInit {
     public ngZone: NgZone
   ) { }
 
-  ngOnInit() { }
+  ngOnInit() {
+    console.log(this.authService.userData)
+  }
 
 }
