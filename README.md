@@ -1,10 +1,6 @@
-# Angular7 Authentication with Firebase5
+# Angular9 Authentication with Firebase5
 
-Learn to create full Firebase authentication system with Angular7 using AngularFire2 library.
-
-## Written Article
-[Full Angular 7 Firebase Authentication System](https://www.positronx.io/full-angular-7-firebase-authentication-system)
-
+Learn to create full Firebase authentication system with Angular9 using AngularFire2 library.
 
 - Sign in with Google
 - Sign in with Facebook
@@ -16,10 +12,6 @@ Learn to create full Firebase authentication system with Angular7 using AngularF
 - Prevent user to access inner pages unless user is not logged In
 - Prevent user to access sign in and sign up components when a user is already logged in
 - Save user data to localstorage when user is logged in
-
-**If you love this project then show your love by simply sharing this repo with others and don't forget to put a GitHub star ⭐ ! Thanks** :pray:
-
-
 
 ## Installation Process
 Run `npm install` to install all the required dependencies
